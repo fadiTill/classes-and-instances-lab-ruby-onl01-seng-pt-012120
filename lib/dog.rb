@@ -6,7 +6,7 @@
  class Dog
  end
 
-  #  fido = Dog.new
+    fido = Dog.new
  # def fido
  # fido = new.Dog
  # end
